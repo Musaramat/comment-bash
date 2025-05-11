@@ -7,3 +7,7 @@
 ![comm](./IMGS/comm1.jpg)
 
 ![comm](./IMGS/comm2.jpg)
+
+![bash](./IMGS/bash.jpg)
+
+![bash](./IMGS/bash1.jpg)
